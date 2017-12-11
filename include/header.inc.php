@@ -51,7 +51,7 @@
                         </li>
                         <?php
                         // message de notification
-                        if ($is_connect == TRUE) { // verifie la variable $is_connect si c'est vrai on affiche "deconnexion sinon on affiche connexion 
+                        if ($is_connect == TRUE) { // verifie la variable $is_connect si c'est vrai on affiche les boutons si dessous sinon on affiche connexion 
                             ?>
                             <li class="nav-item">
                                 <a class="nav-link" href="inscription.php">Inscription</a>
